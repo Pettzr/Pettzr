@@ -4,7 +4,7 @@
 <br>
 
 #### - 🎓 Formado em Análise e Desenvolvimento de Sistemas.
-#### - 🌱 Atualmente estudanto Back-end na plataforma Alura.
+#### - 🌱 Fazendo Projetos FullStack.
 
 <br>
 
